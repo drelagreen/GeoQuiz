@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="quiz_text">#question#</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <!--    <string name="correct_text">Correct!</string>-->
+    <!--    <string name="incorrect_text">Incorrect!</string>-->
+    <string name="next_button_text">Next</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="results_button">Results</string>
+    <string name="your_result_text">Your result is:</string>
+    <string name="percents_text">___%</string>
+    <string name="try_again_button_text">Try Again?</string>
+</resources>
